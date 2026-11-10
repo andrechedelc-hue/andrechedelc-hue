@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
-<style>.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.c{fill:#0f172a;stroke:#334155}.h{font-size:17px;font-weight:700;fill:#e2e8f0}.p{font-size:13px;fill:#94a3b8}
+<style>.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.c{fill:#1c1410;stroke:#44302a}.h{font-size:17px;font-weight:700;fill:#fef3c7}.p{font-size:13px;fill:#a8a29e}
 .k{animation:u 4s ease-in-out infinite alternate}.k2{animation-delay:.6s}.k3{animation-delay:1.2s}@keyframes u{to{transform:translateY(-5px)}}</style>
 <g class="t">
 <g class="k"><rect class="c" x="10" y="20" width="280" height="190" rx="14"/><text x="30" y="55" font-size="26">🧩</text><text class="h" x="30" y="92">Produtos SaaS</text>
@@ -7,5 +7,5 @@
 <g class="k k2"><rect class="c" x="310" y="20" width="280" height="190" rx="14"/><text x="330" y="55" font-size="26">🤖</text><text class="h" x="330" y="92">Orquestração de IA</text>
 <text class="p" x="330" y="120">Harness próprio: pool de modelos,</text><text class="p" x="330" y="140">roteamento por custo, cadeia de</text><text class="p" x="330" y="160">verificação e testes como oráculo.</text></g>
 <g class="k k3"><rect class="c" x="610" y="20" width="280" height="190" rx="14"/><text x="630" y="55" font-size="26">🔬</text><text class="h" x="630" y="92">IA local &amp; pesquisa</text>
-<text class="p" x="630" y="120">Benchmarks de LLMs em GPU 8 GB,</text><text class="p" x="630" y="140">quantização, decisores leves e</text><text class="p" x="630" y="160">medição antes de afirmar.</text></g>
+<text class="p" x="630" y="120">Benchmarks de LLMs locais,</text><text class="p" x="630" y="140">quantização, decisores leves e</text><text class="p" x="630" y="160">medição antes de afirmar.</text></g>
 </g></svg>

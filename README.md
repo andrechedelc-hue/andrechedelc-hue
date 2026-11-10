@@ -6,7 +6,7 @@
 
 ## 👋 Sobre
 
-Fundador solo que constrói **produtos SaaS premium** e opera orquestrando IA como equipe de engenharia. Gosto de decisão objetiva, evidência executável e produto com identidade própria.
+Construo **produtos SaaS premium** e uso IA como parte do time de engenharia. Gosto de decisão objetiva, evidência executável e produto com identidade própria.
 
 ![Foco](assets/focus.svg)
 
@@ -18,7 +18,7 @@ Fundador solo que constrói **produtos SaaS premium** e opera orquestrando IA co
 
 - **Helm** e **Anchor** — SaaS multi-tenant (Rails + Next.js)
 - **Harness de agentes** — roteamento de modelos, cota e cadeia de verificação
-- **IA local** — benchmarks de LLMs quantizados em GPU de 8 GB
+- **IA local** — benchmarks de LLMs quantizados
 - **Ferramentas em Rust** — monitores e utilitários de sistema
 
 ## 📫 Contato
